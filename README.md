@@ -6,3 +6,6 @@ Used Arduino Uno R3 to simulate a smart weather monitoring system.
 
 # ACTIVE
 <img width="1058" height="855" alt="image" src="https://github.com/user-attachments/assets/af502d17-424c-4858-80cb-6fff858bf447" />
+
+# TOGGLING GAS SENSOR I/P
+<img width="1058" height="850" alt="image" src="https://github.com/user-attachments/assets/ee212e99-2f88-49cf-b7f5-c781b32886a6" />
